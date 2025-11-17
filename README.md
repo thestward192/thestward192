@@ -16,11 +16,7 @@
 - 🎓 **Ingeniero en Sistemas de Información** - Universidad Nacional de Costa Rica
 - 💡 Me apasiona traducir ideas complejas en **experiencias digitales claras y atractivas**
 - 🌐 Me especializo en crear sitios y aplicaciones que funcionan igual de bien en **móvil, tablet y desktop**
-- 🛠️ He colaborado en el desarrollo de un **sistema de control de activos** para un colegio técnico con React y NestJS
-- 🏥 Colaboré en un **portal de citas médicas full-stack** y en un **asistente de voz IA**
-- 🎯 Enfocado en la **usabilidad y escalabilidad** en cada proyecto
 - 🚀 Mi inspiración viene de la **curiosidad constante** y el **aprendizaje continuo**
-- 🌍 **Idiomas:** Español (nativo), Inglés (en proceso de aprendizaje)
 
 <br>
 
@@ -60,23 +56,9 @@
   <a href="https://www.figma.com/" target="_blank">
     <img alt="Figma" src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white">
   </a>
-  &emsp;
-  <a href="https://nuxt.com/" target="_blank">
-    <img alt="Nuxt" src="https://img.shields.io/badge/Nuxt-%2300DC82.svg?style=plastic&logo=nuxtdotjs&logoColor=white">
-  </a>
-  &emsp;
-  <a href="https://astro.build/" target="_blank">
-    <img alt="Astro" src="https://img.shields.io/badge/Astro-%23FF5D01.svg?style=plastic&logo=astro&logoColor=white">
-  </a>
-</p>
 
 <br>
 
----
-
-<p align = "center">
-	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
-</p>
 
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px> </picture> Github Stats
 
